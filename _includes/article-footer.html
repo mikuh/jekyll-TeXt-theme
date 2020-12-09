@@ -37,7 +37,7 @@
     {%- endif -%}
     {%- include article/footer/author-profile.html author=_author -%}
   {%- endif -%}
-
+   <div class="comments">{%- include comments-providers/gitalk.html -%}</div>
   {%- if _show_subscribe -%}
     <div class="article__subscribe">{%- include article/footer/subscribe.html -%}</div>
   {%- endif -%}
