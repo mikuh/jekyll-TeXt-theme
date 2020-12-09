@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : 7cc5a938aca1afce1ed4
     clientSecret: 507ecce431014a7960487d1c666c9eb50af60f6b
-    repository  : https://github.com/mikuh/mikuh.github.io
+    repository  : mikuh.github.io
     owner       : mikuh
     admin: mikuh
 
