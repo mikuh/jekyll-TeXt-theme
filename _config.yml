@@ -127,12 +127,11 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    clientID    : 7cc5a938aca1afce1ed4
+    clientSecret: 507ecce431014a7960487d1c666c9eb50af60f6b
+    repository  : https://github.com/mikuh/mikuh.github.io
+    owner       : mikuh
+    admin: mikuh
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
@@ -223,4 +222,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-theme: jekyll-text-theme
