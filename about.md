@@ -55,4 +55,4 @@ B站:https://space.bilibili.com/1580327
 
 或者：
 
-![赞赏](./imgs/zs.png)
+![赞赏](./imgs/zs.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
